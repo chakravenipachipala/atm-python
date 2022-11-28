@@ -1,0 +1,7 @@
+#atm prg
+balance = 1000
+credited_amount = int(input('enter amount')
+main_balance = credited_amount + balance
+print("main balance = ", main_balance)
+
+
